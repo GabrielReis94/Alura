@@ -1,0 +1,16 @@
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\AluraProject.exe
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\AluraProject.deps.json
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\AluraProject.runtimeconfig.json
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\AluraProject.runtimeconfig.dev.json
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\AluraProject.dll
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\ref\AluraProject.dll
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\bin\Debug\net5.0\AluraProject.pdb
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.csproj.AssemblyReference.cache
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.AssemblyInfoInputs.cache
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.AssemblyInfo.cs
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.dll
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\ref\AluraProject.dll
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.pdb
+C:\Users\gabriel.reis\source\repos\AluraProject\AluraProject\obj\Debug\net5.0\AluraProject.genruntimeconfig.cache
